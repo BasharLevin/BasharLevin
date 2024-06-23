@@ -1,6 +1,6 @@
-#<div align="center">
+<!-- <div align="center">
   <img src="https://c.tenor.com/pJmroiNTlHsAAAAd/tenor.gif" alt="DJ Khaled - God Did" height="200" />
-#</div>
+</div> -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basharLevin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
